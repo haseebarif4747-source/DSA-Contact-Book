@@ -261,6 +261,7 @@ int main() {
 
     do {
         cout << "\n===== CONTACT BOOK =====\n";
+        cout << "This Project was made by HASEEB ARIF.\n";
         cout << "1. Add Contact\n";
         cout << "2. Display Contacts\n";
         cout << "3. Search Contact\n";
